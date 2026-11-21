@@ -4,5 +4,6 @@
 
 int main() {
     printf("Hello World!");
+    printf("You're cooked");
     return 0;
 }
